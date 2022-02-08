@@ -45,6 +45,10 @@ grande
 0. Punto 2 della lista
 0. Punto 3 della lista
 
+- [x] Punto 1 della lista
+- [ ] Punto 2 della lista
+- [ ] Punto 3 della lista
+
 |Cella 1|Cella 2|
 |-|-|
 |  A  |  B  |
@@ -54,4 +58,6 @@ Testo normale [^1]
 [^1]: Nota a piè di pagina
 
 ![Immagine](https://myoctocat.com/assets/images/base-octocat.svg)
+
+<!-- Commento che non apparirà nel documento finale -->
 
