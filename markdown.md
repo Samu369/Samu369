@@ -53,3 +53,5 @@ grande
 Testo normale [^1]
 [^1]: Nota a piè di pagina
 
+![Immagine](https://myoctocat.com/assets/images/base-octocat.svg)
+
