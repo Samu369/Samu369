@@ -1,5 +1,1 @@
-- 👋 Ciao, sono @Samu369
-- 👀 Sono interessato a Unity
-- 🌱 Attualmente sto imparando Python.py
-- 💞️ Mi piace collaborare con chiunque sia disponibile a dare una mano
-- 📫 Puoi raggiungermi tramite il mio server Discord o quello di uno dei miei progetti
+//
